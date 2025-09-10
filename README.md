@@ -1,1 +1,0 @@
-# my_ec2_asg_test
